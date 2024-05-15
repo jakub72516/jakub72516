@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @jakub72516
-- 👀 I’m interested in computers.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 jakub72516/jakub72516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
